@@ -345,3 +345,7 @@ git push -f origin main
 
 git stash
 ```
+
+
+## Cancel file tracking
+git rm --cached fileName

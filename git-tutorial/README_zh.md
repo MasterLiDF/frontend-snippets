@@ -220,6 +220,7 @@ git switch -c 功能分支 → 开发提交 → git push -u origin 功能分支 
 git stash
 
 
-
+## 取消文件跟踪
+git rm --cached 文件
 
 
